@@ -14,7 +14,7 @@ The frontend interface is developed using Streamlit, providing an intuitive user
 
 ## Deployment:
 
-The project is deployed on Render and can be accessed through the following link: [Email/SMS Spam Classification System on Render](<Render_Link_Goes_Here>)
+The project is deployed on Render and can be accessed through the following link: [Email/SMS Spam Classification System on Render](https://email-spam-classification-system.onrender.com)
 
 ## Google Colab:
 
@@ -43,4 +43,4 @@ For detailed implementation and execution, refer to the Google Colab notebook: [
 
 ## Contributors:
 
-- Sumit
+- sumitcoder01(Sumit)
